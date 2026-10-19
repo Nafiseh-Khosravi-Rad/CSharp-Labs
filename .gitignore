@@ -1,0 +1,16 @@
+**/bin/
+**/obj/
+**/target/
+**/build/
+**/.vs/
+**/.idea/
+**/__pycache__/
+*.pyc
+*.user
+*.db
+*.sqlite*
+.env*
+**/Data/
+*.pdf
+*.docx
+*.zip
